@@ -17,7 +17,7 @@
 
 - Any cell that begins with `#test`, `#testing`, `#one time use`, `#TO DOWNLOAD`, comments must be carefully read before running
 
-- `YTcommand_prompt.txt` consist of
+- `YTcommand_prompt.txt` consist of command prompts process of  downloaded
 
 - Snippets
 ```
