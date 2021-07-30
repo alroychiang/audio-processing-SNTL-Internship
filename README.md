@@ -4,12 +4,6 @@
 
 - Each cell has a comment header `#___`, any cell that starts with `#test` are not part of the script's code. The cell is only used when issues are faced wile running the code/ debugging
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
 
 # Youtube Downloader OLD.ipynb:
 
@@ -17,9 +11,9 @@
 
 - Any cell that begins with `#test`, `#testing`, `#one time use`, `#TO DOWNLOAD`, comments must be carefully read before running
 
-- `YTcommand_prompt.txt` consist of command prompts process of  downloaded
+- `YTcommand_prompt.txt` consist of command prompt lines of the downloaded YT-Vids
 
-- Snippets
+- `Snippets` consist of the sliced YT-Vids in accordance to the start & end timings of balanced_train_segments_propertext.xlsx
 ```
   def add(x,y):
     # Adds two numbers
