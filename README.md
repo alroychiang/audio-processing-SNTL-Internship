@@ -20,4 +20,13 @@
     return x+y
  ```
  
-# 
+# Single .Wav Noise Remover 2.0.ipynb
+- Consist of code to remove 'Noise Profile' from a single `.wav` file
+
+# sevenChannel to 1,1 Channel to 7.ipynb
+- Consist of Code to split 7 channel audio files into mono-channel audio files, vice versa
+
+# Nominalization Code.ipynb
+- Code to nominalize audio files
+
+# Nominalization Code.ipynb
