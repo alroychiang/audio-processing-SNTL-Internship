@@ -1,11 +1,11 @@
-# Youtube Downloader Cleaned.ipynb:
+`Youtube Downloader Cleaned.ipynb`:
 
 - To download and slice youtube videos from balanced_train_segments_propertext.xlsx, from http://research.google.com/audioset/download.html
 
 - Each cell has a comment header `#___`, any cell that starts with `#test` are not part of the script's code. The cell is only used when issues are faced wile running the code/ debugging
 
 
-# Youtube Downloader OLD.ipynb:
+`Youtube Downloader OLD.ipynb`:
 
 - Consist of all the test codes, debuggings and try and error codes that used to create Youtube Downloader Cleaned code.
 
@@ -20,7 +20,7 @@
     return x+y
  ```
  
-# Single .Wav Noise Remover 2.0.ipynb
+`Single .Wav Noise Remover 2.0.ipynb`
 - Consist of code to remove 'Noise Profile' from a single `.wav` file
 
 # sevenChannel to 1,1 Channel to 7.ipynb
