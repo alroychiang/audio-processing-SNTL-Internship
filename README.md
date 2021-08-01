@@ -18,7 +18,10 @@
 - Raw, old code used for the making of Nominalization Code.ipynb
 
 `sevenChannel to 1,1 Channel to 7.ipynb`
-- Splits a 7-Channel Audio File to 1-Channel Audio files, VIce versa
+- Splits a 7-Channel Audio File to 1-Channel Audio files, Vice versa
+
+`Single .Wav Noise Remover 2.0.ipynb`
+- Selects the Noise profile (seconds) of a specific microphone data[ : ] and removes noise from the single .wav audio file
 
 `Youtube Downloader Cleaned.ipynb`:
 - To download and slice youtube videos from balanced_train_segments_propertext.xlsx, from http://research.google.com/audioset/download.html
@@ -26,26 +29,6 @@
 - `YTcommand_prompt.txt` Consist of command prompt lines of the downloaded YT-Vids
 -`Snippets` consist of the sliced YT-Vids in accordance to the start & end timings of balanced_train_segments_propertext.xlsx
 
-
 `Youtube Downloader OLD.ipynb`:
-
 - Consist of all the test codes, debuggings and try and error codes that used to create Youtube Downloader Cleaned code.
-
 - Any cell that begins with `#test`, `#testing`, `#one time use`, `#TO DOWNLOAD`, comments must be carefully read before running
-
- 
-`Single .Wav Noise Remover 2.0.ipynb`
-- Consist of code to remove 'Noise Profile' from a single `.wav` file
-
-
-`sevenChannel to 1,1 Channel to 7.ipynb`
-- Consist of Code to split 7 channel audio files into mono-channel audio files, vice versa
-
-
-
-
-```
-  def add(x,y):
-    # Adds two numbers
-    return x+y
- ```
