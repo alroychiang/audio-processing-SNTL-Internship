@@ -12,7 +12,13 @@
 - This is the hard-code to move specific microphones to their respective folders
 
 `Nominalization Code.ipynb`
-- 
+- Code to nominalize audio tracks
+
+`Old Coversion and Nominalization 3.ipynb`
+- Raw, old code used for the making of Nominalization Code.ipynb
+
+`sevenChannel to 1,1 Channel to 7.ipynb`
+- Splits a 7-Channel Audio File to 1-Channel Audio files, VIce versa
 
 `Youtube Downloader Cleaned.ipynb`:
 - To download and slice youtube videos from balanced_train_segments_propertext.xlsx, from http://research.google.com/audioset/download.html
